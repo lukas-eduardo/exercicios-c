@@ -10,9 +10,8 @@ Auxiliar alunos no desenvolvimento de habilidades em C através da prática com 
 
 Os exercícios estão organizados em pastas temáticas. Cada pasta contém:
 
-- Enunciados dos exercícios (`README.md` ou arquivos `.txt`)
-- Arquivos `.c` de referência (quando aplicável)
-- Sugestões ou soluções comentadas (em arquivos separados)
+- Enunciados dos exercícios em arquivos separados (`README.md` ou arquivos `.txt`) ou dentro do arquivo da própria resolução
+- Sugestões ou soluções comentadas em arquivos separados ou em comentários dentro do código da resolução
 
 ## 📝 Como usar
 
